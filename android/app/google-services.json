@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "574340148701",
+    "firebase_url": "https://donation-app-99565-default-rtdb.firebaseio.com",
+    "project_id": "donation-app-99565",
+    "storage_bucket": "donation-app-99565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574340148701:android:98d70624d83b8a932c5a34",
+        "android_client_info": {
+          "package_name": "com.finalhathacon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aWQ0VVOcW4q1a3vh8v7h_WB0rSE0R-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
